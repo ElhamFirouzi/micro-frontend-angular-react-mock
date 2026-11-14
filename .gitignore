@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Angular build output
+dist/
+.angular/
+.nx/cache
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS / IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
